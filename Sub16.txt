@@ -1,8 +1,8 @@
-#profile-title: base64:8J+GkyBHaXQ6RXBvZG9uaW9zIHwgU3ViMTYg8J+UpQ==
+#profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViMTYg8J+UpQ==
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/Epodonios/v2ray-configs
-#profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+#support-url: https://github.com/barry-far/V2ray-config
+#profile-web-page-url: https://github.com/barry-far/V2ray-config
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@209.46.30.20:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇺🇸 US-209.46.30.20:8880
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.44.168:443?sni=edmq.aimercc.filegear-sg.me&type=ws&host=edmq.aimercc.filegear-sg.me&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.44.168:443
 vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@104.21.64.1:2096?security=tls&sni=sub.shadowsokstes.WoRkErs.DeV&type=ws&host=sub.shadowsokstes.WoRkErs.DeV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.64.1:2096

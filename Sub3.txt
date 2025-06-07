@@ -1,8 +1,8 @@
-#profile-title: base64:8J+GkyBHaXQ6RXBvZG9uaW9zIHwgU3ViMyDwn5Sl
+#profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViMyDwn5Sl
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/Epodonios/v2ray-configs
-#profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+#support-url: https://github.com/barry-far/V2ray-config
+#profile-web-page-url: https://github.com/barry-far/V2ray-config
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@199.34.228.66:443?security=tls&sni=gozargah.validbv7996.ir&type=ws&path=%2FoiBBYyE4WkprI2wD%3Fed#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.66:443
 vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.92:443?sni=ca.bgm2024.dpdns.org&type=ws&host=ca.bgm2024.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇷🇺 RU-45.67.215.92:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.246.244:8880?security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FTelegramU0001F1E8U0001F1F3#🔒 VL-WS-NONE 🇳🇱 NL-5.10.246.244:8880

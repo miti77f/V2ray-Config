@@ -1,8 +1,8 @@
-#profile-title: base64:8J+GkyBHaXQ6RXBvZG9uaW9zIHwgU3ViMjIg8J+UpQ==
+#profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViMjIg8J+UpQ==
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/Epodonios/v2ray-configs
-#profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+#support-url: https://github.com/barry-far/V2ray-config
+#profile-web-page-url: https://github.com/barry-far/V2ray-config
 trojan://Aimer@108.165.152.58:2087?security=tls&sni=epmw.ambercc.filegear-sg.me&type=ws&host=epmw.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🇺🇸 US-108.165.152.58:2087
 trojan://Aimer@5.35.68.249:2053?sni=epccv.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇳🇱 NL-5.35.68.249:2053
 trojan://juzi@172.66.45.35:443?security=tls&sni=juzi8186-sr1.pages.dev&type=ws&host=juzi8186-sr1.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.45.35:443

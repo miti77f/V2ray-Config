@@ -1,8 +1,8 @@
-#profile-title: base64:8J+GkyBHaXQ6RXBvZG9uaW9zIHwgU3ViMTIg8J+UpQ==
+#profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViMTIg8J+UpQ==
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/Epodonios/v2ray-configs
-#profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+#support-url: https://github.com/barry-far/V2ray-config
+#profile-web-page-url: https://github.com/barry-far/V2ray-config
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.145:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.145:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.122.107:80?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/telegram-_-_-_-_-__-free_shekan-_-_-_-/?ed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-141.101.122.107:80
 vless://db655400-3b76-5530-a13b-b908b691484b@138.124.31.187:80?security=none&type=ws&host=fr.vless.comnpmjs.com&path=/vless#🔒 VL-WS-NONE 🇫🇷 FR-138.124.31.187:80

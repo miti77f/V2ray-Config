@@ -1,8 +1,8 @@
-#profile-title: base64:8J+GkyBHaXQ6RXBvZG9uaW9zIHwgU3ViMjEg8J+UpQ==
+#profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViMjEg8J+UpQ==
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/Epodonios/v2ray-configs
-#profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+#support-url: https://github.com/barry-far/V2ray-config
+#profile-web-page-url: https://github.com/barry-far/V2ray-config
 trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@104.21.20.80:443?security=tls&sni=BoStoN01.890614.GGff.neT&type=ws&host=boston01.890614.ggff.net&path=/Q3cz2AWTPMCtDGV1L6R1Jz18eIUw#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.20.80:443
 trojan://Aimer@5.182.84.52:2083?sni=epccv.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇷🇺 RU-5.182.84.52:2083
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@104.19.159.12:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.159.12:443
