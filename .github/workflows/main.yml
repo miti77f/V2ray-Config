@@ -6,8 +6,8 @@ on:
     branches:
       - main
   schedule:
-    # Run every 10 minutes
-    - cron: "*/10 * * * *"
+    # Run every 12 minutes
+    - cron: "*/12 * * * *"
 
 jobs:
   build:
@@ -38,6 +38,6 @@ jobs:
         author_email: "actions@github.com"
         message: "Updated 9 minutes Ago🤝"
         add: "."
-        push: "https://github.com/barry-far/V2ray-Configs.git"
+        push: "https://github.com/barry-far/V2ray-Config.git"
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
