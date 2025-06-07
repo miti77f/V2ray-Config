@@ -1,7 +1,7 @@
 # 🔒 Бесплатные конфигурации V2ray 🌐
 💻 Этот репозиторий содержит коллекцию бесплатных конфигурационных файлов V2ray, которые вы можете использовать с вашим V2ray клиентом для безопасного и анонимного доступа в интернет.
 
-[ورژن فارسی](https://github.com/barry-far/V2ray-config/blob/main/Persian-README.md) | [中文版](https://github.com/barry-far/V2ray-config/blob/main/Chinese-README.md)
+[ورژن فارسی](https://github.com/barry-far/V2ray-config/blob/main/Persian-README.md) | [中文版](https://github.com/barry-far/V2ray-config/blob/main/Chinese-README.md) | [English Version](https://github.com/barry-far/V2ray-config) | [Türkçe Versiyon](https://github.com/barry-far/V2ray-config/blob/main/Turkish-README.md)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/barry-far/V2ray-config.svg) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![GitHub stars](https://img.shields.io/github/stars/barry-far/V2ray-config.svg)](https://github.com/barry-far/V2ray-config/stargazers) [![Update Configs](https://github.com/barry-far/V2ray-config/actions/workflows/main.yml/badge.svg)](https://github.com/barry-far/V2ray-config/actions/workflows/main.yml) ![GitHub repo size](https://img.shields.io/github/repo-size/barry-far/V2ray-config)  
 
