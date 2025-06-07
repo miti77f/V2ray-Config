@@ -51,12 +51,19 @@ def decode_dir_links(dir_links):
             pass  # If the request fails or times out, skip it
     return decoded_dir_links
 
-# Filter function to select lines based on specified protocols
+# Filter function to select lines based on specified protocols and remove duplicates (only for config lines)
 def filter_for_protocols(data, protocols):
     filtered_data = []
+    seen_configs = set()
     for line in data:
-        if any(protocol in line for protocol in protocols):
+        line = line.strip()
+        if line.startswith('#') or not line:
+            # Always keep comment/metadata/empty lines
             filtered_data.append(line)
+        elif any(protocol in line for protocol in protocols):
+            if line not in seen_configs:
+                filtered_data.append(line)
+                seen_configs.add(line)
     return filtered_data
 
 # Create necessary directories if they don't exist
