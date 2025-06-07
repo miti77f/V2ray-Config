@@ -1,8 +1,8 @@
-#profile-title: base64:8J+GkyBHaXQ6RXBvZG9uaW9zIHwgU3ViMTcg8J+UpQ==
+#profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViMTcg8J+UpQ==
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/Epodonios/v2ray-configs
-#profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+#support-url: https://github.com/barry-far/V2ray-config
+#profile-web-page-url: https://github.com/barry-far/V2ray-config
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.244.195:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-5.10.244.195:8880
 vless://2b4bed25-a5ef-439d-93b1-395b7bcec58b@45.131.4.78:80?sni=workerr.dimon22287.workers.dev&type=ws&host=workerr.dimon22287.workers.dev&path=Telegram%40WangCai2#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.78:80
 vless://999ede55-0aaa-4b54-9dad-c2abe0188940@104.16.53.11:8080?security=none&type=httpupgrade&host=subservicepqifqpowednunadpofkeiofqowemiqwpeodmqwemfpnpqwed.okatestoka.ir&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.16.53.11:8080

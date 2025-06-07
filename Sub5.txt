@@ -1,8 +1,8 @@
-#profile-title: base64:8J+GkyBHaXQ6RXBvZG9uaW9zIHwgU3ViNSDwn5Sl
+#profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViNSDwn5Sl
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/Epodonios/v2ray-configs
-#profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+#support-url: https://github.com/barry-far/V2ray-config
+#profile-web-page-url: https://github.com/barry-far/V2ray-config
 vless://716e8c06-40e6-41ae-82ca-db79b41112c2@172.66.194.180:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.194.180:443
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.115.101:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.253.115.101:443
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.5.243:80?security=none&sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.5.243:80

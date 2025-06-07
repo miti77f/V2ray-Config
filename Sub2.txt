@@ -1,8 +1,8 @@
-#profile-title: base64:8J+GkyBHaXQ6RXBvZG9uaW9zIHwgU3ViMiDwn5Sl
+#profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViMiDwn5Sl
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/Epodonios/v2ray-configs
-#profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+#support-url: https://github.com/barry-far/V2ray-config
+#profile-web-page-url: https://github.com/barry-far/V2ray-config
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgMTR85pel5pysVjJ8QHJpcGFvamllZGlhbiIsImFkZCI6IjguMjExLjE1NC4xMDciLCJwb3J0IjoiNTA5NTEiLCJ0eXBlIjoibm9uZSIsImlkIjoiYTNkMDQ1NDgtNjI1Yy00NjU4LTlmZjAtZjlhNzgzNWQxZjZkIiwiYWlkIjoiMCIsIm5ldCI6ImtjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
 trojan://bf109e1a-2b99-11ed-bb74-f23c9164ca5d@ddd0977f-sxaf40-t3b4w3-ywms.cm5.cnkuaishou.com:27231?allowInsecure=0#%F0%9F%87%B8%F0%9F%87%AC%2014%7C%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2Y1hkbGNsSkZWMUZBUUE@p080.panda001.net:36379#%F0%9F%87%B0%F0%9F%87%B7%2014%7C%E9%9F%A9%E5%9B%BD2%7C%40ripaojiedian

@@ -1,8 +1,8 @@
-#profile-title: base64:8J+GkyBHaXQ6RXBvZG9uaW9zIHwgU3ViMTkg8J+UpQ==
+#profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViMTkg8J+UpQ==
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/Epodonios/v2ray-configs
-#profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+#support-url: https://github.com/barry-far/V2ray-config
+#profile-web-page-url: https://github.com/barry-far/V2ray-config
 vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@194.36.55.243:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&alpn=http%2F1.1#🔒 VL-WS-TLS 🇬🇧 GB-194.36.55.243:443
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@172.66.47.200:443?security=tls&sni=midsUMmER-Bpb.pAgES.DEV&type=ws&host=mIDsuMMer-bpb.PAgEs.DeV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.200:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.129.165.20:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-104.129.165.20:8880

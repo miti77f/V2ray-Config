@@ -1,8 +1,8 @@
-#profile-title: base64:8J+GkyBHaXQ6RXBvZG9uaW9zIHwgU3ViNCDwn5Sl
+#profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViNCDwn5Sl
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/Epodonios/v2ray-configs
-#profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+#support-url: https://github.com/barry-far/V2ray-config
+#profile-web-page-url: https://github.com/barry-far/V2ray-config
 vless://51a29401-f065-4a8e-8cba-b4804ad27008@104.21.48.1:2083?security=tls&sni=vibe.orgspeed.net&type=ws&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.48.1:2083
 vless://bdf33836-04d7-4048-be9d-9be0660f1d9a@104.18.15.16:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.15.16:443
 vless://33428626-237f-44ce-93c3-efe007db8a7f@172.64.32.181:443?security=tls&sni=qsc0wrja.yandixpartners.com&type=ws&host=qsc0wrja.yandixpartners.com&path=/wss#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.32.181:443

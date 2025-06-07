@@ -1,8 +1,8 @@
-#profile-title: base64:8J+GkyBHaXQ6RXBvZG9uaW9zIHwgU3ViNyDwn5Sl
+#profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViNyDwn5Sl
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/Epodonios/v2ray-configs
-#profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+#support-url: https://github.com/barry-far/V2ray-config
+#profile-web-page-url: https://github.com/barry-far/V2ray-config
 vless://3feb3c38-d864-4184-f051-7d6156234f7f@104.26.1.117:8880?security=none&type=ws&host=Mystic-vpn.academivpn-mystic.site.&path=%2FTelegram-Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn---Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn-Admin-Mystic_vpn%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.1.117:8880
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.205:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.205:80
 vless://20bbb174-f7c3-417a-84b7-0a0a5ffa45c8@188.114.98.58:443?security=tls&sni=steep-pine-3b0b.facic63646.workers.dev&type=ws&host=steep-pine-3b0b.facic63646.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.58:443

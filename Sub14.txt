@@ -1,8 +1,8 @@
-#profile-title: base64:8J+GkyBHaXQ6RXBvZG9uaW9zIHwgU3ViMTQg8J+UpQ==
+#profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViMTQg8J+UpQ==
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/Epodonios/v2ray-configs
-#profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+#support-url: https://github.com/barry-far/V2ray-config
+#profile-web-page-url: https://github.com/barry-far/V2ray-config
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.170:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-141.193.213.170:80
 vless://34842069-dcb9-4595-bd60-20b0562c56e5@172.64.32.217:2096?security=tls&sni=us-228.memories-00.space&type=xhttp&path=/api/v1&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-172.64.32.217:2096
 vless://ee2e1747-48c9-4db7-bd31-ba15e8fed87d@162.159.140.167:443?security=tls&sni=emir2.eternaute.online&type=xhttp&host=emir2.eternaute.online&path=%2F&fp=chrome&alpn=h3&allowInsecure=1#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-162.159.140.167:443

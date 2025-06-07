@@ -1,8 +1,8 @@
-#profile-title: base64:8J+GkyBHaXQ6RXBvZG9uaW9zIHwgU3ViMjUg8J+UpQ==
+#profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViMjUg8J+UpQ==
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/Epodonios/v2ray-configs
-#profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+#support-url: https://github.com/barry-far/V2ray-config
+#profile-web-page-url: https://github.com/barry-far/V2ray-config
 trojan://Aimer@104.22.29.204:443?sni=epccv.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A523
 trojan://Aimer@104.19.44.91:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A524
 trojan://Aimer@104.18.73.122:443?sni=epccx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A525

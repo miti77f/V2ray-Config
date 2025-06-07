@@ -1,8 +1,8 @@
-#profile-title: base64:8J+GkyBHaXQ6RXBvZG9uaW9zIHwgU3ViMTUg8J+UpQ==
+#profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViMTUg8J+UpQ==
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/Epodonios/v2ray-configs
-#profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+#support-url: https://github.com/barry-far/V2ray-config
+#profile-web-page-url: https://github.com/barry-far/V2ray-config
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.187:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.187:8880
 vless://05dc7e04-4ee0-4c72-8acb-145b8122077d@104.18.113.100:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.113.100:443
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@162.159.138.232:2086?type=ws&host=digitalscientificresearchgroup.ir&path=%2FTM%40Azarbayjab1%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.138.232:2086
