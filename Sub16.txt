@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@209.46.30.20:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇺🇸 US-209.46.30.20:8880
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.44.168:443?sni=edmq.aimercc.filegear-sg.me&type=ws&host=edmq.aimercc.filegear-sg.me&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.44.168:443
 vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@104.21.64.1:2096?security=tls&sni=sub.shadowsokstes.WoRkErs.DeV&type=ws&host=sub.shadowsokstes.WoRkErs.DeV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.64.1:2096
 vless://20bbb174-f7c3-417a-84b7-0a0a5ffa45c8@104.18.102.48:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.102.48:443
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.63.138:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.253.63.138:443
@@ -503,3 +501,5 @@ vless://fa659470-ca91-43c1-a966-2349531fb6a8@104.21.8.115:443?security=tls&sni=x
 vless://546cfb84-120f-43db-89db-5cba033bf9dc@162.159.135.232:8880?path=/@ZEDMODEON+TEL#🔒 VL-TCP-NA 🏴‍☠️ NA-162.159.135.232:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.201:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.201:8880
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.24.79.131:2096?sni=bitget1.asdasd.click&type=ws&host=bitget1.asdasd.click#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.79.131:2096
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.244.195:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-5.10.244.195:8880
+vless://2b4bed25-a5ef-439d-93b1-395b7bcec58b@45.131.4.78:80?sni=workerr.dimon22287.workers.dev&type=ws&host=workerr.dimon22287.workers.dev&path=Telegram%40WangCai2#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.78:80

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://1ccc1dd8-d8ed-4b69-b0c2-27f6282f9755@172.67.180.66:2083?security=tls&sni=vl.bujidao.cc&type=ws&host=vl.bujidao.cc&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.180.66:2083
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@167.68.4.36:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-167.68.4.36:8880
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.17.128.1:2096?security=tls&sni=vlee.amclubs.nyc.mn&type=ws&host=vlee.amclubs.nyc.mn&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.128.1:2096
 vless://4a3ee276-f50f-46f6-ba4d-13571732ab70@104.21.61.229:443?security=tls&sni=Eeed43.FrEevPn2027.dPdNS.ORg&type=grpc&serviceName=RVZdZGSrg42QMKbEc4N8D&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.61.229:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.194.53.52:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-45.194.53.52:8880
@@ -503,3 +501,5 @@ vless://1a50ebe0-2a29-4a46-ad16-906614733213@104.18.162.24:2086?security=none&ty
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.62.84:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.62.84:443
 vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@172.67.69.216:2053?security=tls&sni=iran.akcovufun.ir&type=ws&host=iran.akcovufun.ir&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.69.216:2053
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@185.59.218.152:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇷🇺 RU-185.59.218.152:8880
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.170:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-141.193.213.170:80
+vless://34842069-dcb9-4595-bd60-20b0562c56e5@172.64.32.217:2096?security=tls&sni=us-228.memories-00.space&type=xhttp&path=/api/v1&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-172.64.32.217:2096

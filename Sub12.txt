@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.145:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.145:80
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.122.107:80?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/telegram-_-_-_-_-__-free_shekan-_-_-_-/?ed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-141.101.122.107:80
 vless://db655400-3b76-5530-a13b-b908b691484b@138.124.31.187:80?security=none&type=ws&host=fr.vless.comnpmjs.com&path=/vless#🔒 VL-WS-NONE 🇫🇷 FR-138.124.31.187:80
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@45.39.198.43:8080?security=tls&sni=edccx.aimercc.filegear-sg.me&type=ws&host=edccx.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-45.39.198.43:8080
 vless://51542914-e2ff-4b72-9229-268f4c04f8ba@172.66.47.137:2083?security=tls&sni=M%41hDISErveR-URx.pAGes.Dev&type=ws&host=mahd%69server-urx.pages.dev&path=%2FsYhCl5FvrU4KMc3U%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.137:2083
@@ -503,3 +501,5 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.85.118.32:8880?sni=reedfree8mahs
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@92.53.188.49:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇸🇮 SI-92.53.188.49:8880
 vless://55520747-311e-4015-83ce-be46e2060ce3@192.200.160.26:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-192.200.160.26:443
 vless://1cd98bcc-2d8a-40ae-ab62-d201e796e3f5@104.26.15.80:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.15.80:443
+vless://1ccc1dd8-d8ed-4b69-b0c2-27f6282f9755@172.67.180.66:2083?security=tls&sni=vl.bujidao.cc&type=ws&host=vl.bujidao.cc&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.180.66:2083
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@167.68.4.36:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-167.68.4.36:8880

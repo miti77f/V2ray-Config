@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.170:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-141.193.213.170:80
-vless://34842069-dcb9-4595-bd60-20b0562c56e5@172.64.32.217:2096?security=tls&sni=us-228.memories-00.space&type=xhttp&path=/api/v1&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-172.64.32.217:2096
 vless://ee2e1747-48c9-4db7-bd31-ba15e8fed87d@162.159.140.167:443?security=tls&sni=emir2.eternaute.online&type=xhttp&host=emir2.eternaute.online&path=%2F&fp=chrome&alpn=h3&allowInsecure=1#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-162.159.140.167:443
 vless://f88e0a3c-75d5-411d-a39d-7a95bb123fd0@104.22.32.78:2087?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=httpupgrade&host=BeAt.mIRacLeTaXbItS.tOP.&path=%2F%40V2rayyNGvpn%3Fed%3D2560&fp=chrome&alpn=h2,http/1.1#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.22.32.78:2087
 vless://7b1c5bee-19f1-422f-8be2-e03175fabe4a@104.248.168.91:80?security=none&type=ws#🔒 VL-WS-NONE 🇬🇧 GB-104.248.168.91:80
@@ -503,3 +501,5 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.6.231:80?security=none&sni=r
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@77.232.140.6:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇷🇺 RU-77.232.140.6:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.187:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-5.10.215.187:8880
 vless://3232953e-5959-495c-b969-d6d86a635089@198.41.204.40:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.204.40:443
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.187:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-84.32.131.187:8880
+vless://05dc7e04-4ee0-4c72-8acb-145b8122077d@104.18.113.100:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.113.100:443

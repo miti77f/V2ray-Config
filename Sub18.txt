@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.65:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.65:2096
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.241:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/Telegram&allowInsecure=0#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.241:8880
 vless://4679efd2-1467-4392-b8c1-39df418b6ce1@104.18.21.228:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.21.228:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.120:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-5.10.214.120:8880
 vless://c8898cfd-9927-4f36-b7bc-40de76076b80@194.49.53.185:443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#🔒 VL-TCP-TLS 🇳🇱 NL-194.49.53.185:443
@@ -503,3 +501,5 @@ vless://897a4bec-26b8-11e8-94be-00505695472c@104.17.251.39:443?sni=xv6.jpmj.dpdn
 vless://c3c07679-bddc-4ce8-9cc4-57b550a1c000@172.67.75.194:443?security=tls&sni=ssss4SssSsssssSssS.paGES.DeV&type=ws&host=sssS4SsSsssSSSsSSS.PageS.dEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.75.194:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@31.12.75.194:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇷🇺 RU-31.12.75.194:8880
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.108:80?sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&path=%2F#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.108:80
+vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@194.36.55.243:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&alpn=http%2F1.1#🔒 VL-WS-TLS 🇬🇧 GB-194.36.55.243:443
+vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@172.66.47.200:443?security=tls&sni=midsUMmER-Bpb.pAgES.DEV&type=ws&host=mIDsuMMer-bpb.PAgEs.DeV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.200:443
