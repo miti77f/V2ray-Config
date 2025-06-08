@@ -14,7 +14,7 @@
 
 ❕اگر لینک بالا روی کلاینت شما کار نکرد ، از این لینک استفاده کنید : [All_Config_base64_Sub.txt](https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_base64_Sub.txt)
 
-💡روش **2** برای بهترین عملکرد می‌توانید یکی از این لینک‌ها را داخل نرم‌افزار خود قرار بدهید:
+💡روش **2** برای بهترین عملکرد می‌توانید یکی از این لینک‌ها را داخل نرم‌افزار خود قرار بدهید: 
 
 لینک 1 : https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub1.txt
 
