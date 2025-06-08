@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@66.81.247.242:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%40ShadowProxy66%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇺🇸 US-66.81.247.242:8880
+vless://2a9ecf05-c971-4c56-b44e-f85b2b253f93@172.67.147.79:2052?security=none&type=ws&host=join.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.c.cloudfront.net.kiava.fun#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.147.79:2052
+vless://046686cd-e1d6-48ec-84dd-ca9cb6e7f88a@172.67.69.236:2096?security=tls&sni=rEDzOnE.MirAcLehEaRTbIt.ICu&type=ws&host=rEDzOnE.MirAcLehEaRTbIt.ICu&path=%2F2096%2F%40V2RayyNGVpn&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.69.236:2096
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@198.62.62.156:443?sni=nl.ylka.dpdns.org&type=ws&host=nl.ylka.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-198.62.62.156:443
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.17.64.70:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.64.70:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.162.193.201:443?sni=edmq.aimercc.filegear-sg.me&type=ws&host=edmq.aimercc.filegear-sg.me&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-108.162.193.201:443
 vless://9a699537-74e9-4506-8aa7-a5fb0b899bfd@172.67.148.75:443?security=tls&sni=digibook.digibook.fun&type=ws&path=/V2rayi5&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.148.75:443
 vless://b3386bb5-4445-4fc6-84aa-c17e2e0bb664@151.101.3.6:443?security=tls&sni=test.tm&type=xhttp&host=test.tm&path=%2F&fp=chrome&alpn=h3&allowInsecure=1#🔒 VL-XHTTP-TLS 🇺🇸 US-151.101.3.6:443
@@ -498,8 +503,3 @@ vless://148cfb6d-e6c1-46a1-bf83-15f5d4052eca@188.245.94.86:60300?security=tls&fl
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@94.140.0.38:443?security=tls&sni=Tp914Rk8Rp.NeWrEtR432aS.iNfO&type=grpc&fp=firefox#🔒 VL-GRPC-TLS 🇦🇪 AE-94.140.0.38:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.10.214.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-5.10.214.29:8880
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@77.91.122.176:2198?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-77.91.122.176:2198
-vless://6296d808-4cce-4c3b-be64-f79bed4dc939@185.143.232.201:443?security=tls&sni=mydigipay.com&type=ws&host=pl.cloud.ir-sub.fun&path=/telegram-mitivpn-telegram-mitivpn-telegram-mitivpn&fp=firefox#🔒 VL-WS-TLS 🇮🇷 IR-185.143.232.201:443
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.26.4.3:443?sni=edcca.ambercc.filegear-sg.me&type=ws&host=edcca.ambercc.filegear-sg.me&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.4.3:443
-vless://f522bc94-01aa-4b84-ae1d-b8d9e5e602cb@172.67.184.163:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=/?ed%3D2048&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.184.163:443
-vless://a2056696-90fc-4e0a-b7c8-e85ce9f96d18@104.16.58.162:80?security=none&type=ws&host=worker-winter-meadow-e881.test55.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.58.162:80
-vless://d118038f-0d72-4b45-8cce-bcf237487f41@104.18.95.72:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.95.72:443
