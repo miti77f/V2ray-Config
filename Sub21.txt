@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://Aimer@51.195.47.243:8443?sni=epcch.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇩🇪 DE-51.195.47.243:8443
+trojan://Aimer@167.68.5.248:2087?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-167.68.5.248:2087
 trojan://Aimer@162.159.135.28:443?sni=epcch.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.135.28:443
 trojan://vip@172.64.145.93:443?security=tls&sni=heihu880.pages.dev&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.64.145.93:443
 trojan://4be20cf1-6af1-4e87-ae5a-80d6ec30fecd@172.67.214.21:443?security=tls&sni=8io09.191268.xyz&type=ws&host=8io09.191268.xyz&path=/tvowuLtlha3zxRV9PS#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.214.21:443
@@ -501,5 +503,3 @@ trojan://67eb147db1c0f8c5@60.249.28.59:443?security=tls&sni=007.com&type=grpc#�
 trojan://Aimer@104.16.149.162:443?sni=epccg.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.149.162:443
 trojan://Aimer@162.159.133.8:443?sni=epcch.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.133.8:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.16.21.118:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.21.118:443
-trojan://U592RRvl1vSW@104.21.80.1:2053?security=tls&sni=tasnim.twn24.ir&type=ws&host=tasnim.twn24.ir&path=/рЯЖФ@M3HDIO1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.80.1:2053
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.230:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-141.101.120.230:2053
