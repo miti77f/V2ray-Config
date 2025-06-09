@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@199.34.228.135:2083?security=tls&sni=23-lsjfjwiposkfls.hc2021.cfd&type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.135:2083
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.246.146:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-5.10.246.146:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.127:80?sni=301.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.127:80
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.56.128:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.56.128:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.85:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.85:8880
@@ -501,5 +503,3 @@ vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.49.208:443?sni=edccz.aimercc.
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.182:80?security=none&type=ws&host=gozargah.validbv7996.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🔒 VL-WS-NONE 🇳🇱 NL-45.131.5.182:80
 vless://03ae39fd-ec71-4db5-b234-94de99a6e514@188.114.97.214:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.214:443
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@159.246.55.232:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇺🇸 US-159.246.55.232:2096
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.159.218.154:80?type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram:#🔒 VL-WS-NA 🇺🇸 US-45.159.218.154:80
-vless://c4b13ceb-11d0-4611-8e50-f5bb453defa2@153.121.32.78:7000?security=tls&sni=mot.luyuju.dpdns.org&type=ws&host=mot.luyuju.dpdns.org&allowInsecure=0#🔒 VL-WS-TLS 🇯🇵 JP-153.121.32.78:7000

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://05fc66e3-c445-4ebd-9eea-ed7bc95b204b@190.93.246.175:443?security=tls&sni=hfhahfahff.38xf.top&type=ws&host=hfhahfahff.38xf.top#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.246.175:443
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@213.109.205.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/&allowInsecure=0#🔒 VL-WS-NA 🇨🇾 CY-213.109.205.20:8880
 vless://cdb63ff9-1767-4a35-97e5-900048e4feb2@13.215.252.170:443?security=tls&flow=xtls-rprx-vision&sni=cdn-sg02.download.pikoport.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇸🇬 SG-13.215.252.170:443
 vless://09486821-5166-4b4c-806b-80c1c8fb101a@104.16.69.223:2053?security=tls&sni=egcf.shijie.icu&type=ws&host=egcf.shijie.icu#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.69.223:2053
 vless://49fb4955-1dd0-441e-8d74-dff7da060cab@162.159.20.126:80?type=httpupgrade&host=v2ngfast.nanvrfood.ir.&path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NA 🏴‍☠️ NA-162.159.20.126:80
@@ -501,5 +503,3 @@ vless://b2211bd9-5eba-4141-b80d-a6c335b2e751@172.66.47.49:443?security=tls&sni=b
 vless://ac7bcf0a-ef69-4949-aff2-a93630021826@104.26.13.101:443?security=tls&sni=0C9CF137-telegRAM-CaSsIUsvpn-tElegrAm-cAsSIusvpn-teLEgrAm.eamOnN-120.workers.DEV&type=ws&host=0c9cf137-telegram-cassiusvpn-telegram-cassiusvpn-telegram.eamonn-120.workers.dev&path=%2FqmMTvZWWZJIvtX37%2FMy43MC4yMTkuMTk2%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.13.101:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.56:8880?type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F#🔒 VL-WS-NA 🇩🇪 DE-5.10.214.56:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.106.60:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%40ShadowProxy66%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇷🇺 RU-185.148.106.60:8880
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.6.139:8443?security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇳🇱 NL-45.131.6.139:8443
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.12.31.122:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇷🇴 RO-45.12.31.122:2096
