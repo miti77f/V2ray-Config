@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@14.102.229.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-14.102.229.20:8880
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.136:443?sni=sl.ylka.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-63.141.128.136:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.55.76:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.55.76:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@104.254.140.119:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-104.254.140.119:8880
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.170:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.170:80
@@ -503,3 +501,5 @@ vless://ac754d5a-d028-4175-8c48-de7997ba1a4d@185.204.171.31:1040?security=none&t
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.182:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-5.10.214.182:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.23:8880?security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FTelegramU0001F1E8U0001F1F3#🔒 VL-WS-NONE 🇩🇪 DE-5.10.214.23:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.116.7.19:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-103.116.7.19:8880
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.245.104:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-5.10.245.104:8880
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.7.45:8443?security=tls&sni=NuWoLcZn28.qUiCkOrA.OrG&type=ws&host=NuWoLcZn28.qUiCkOrA.OrG&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇳🇱 NL-45.131.7.45:8443
