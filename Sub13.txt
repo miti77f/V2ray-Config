@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@164.52.2.99:443?sni=0926.qiang2000.link&type=ws&host=0926.qiang2000.link&allowInsecure=0#🔒 VL-WS-NA 🇸🇬 SG-164.52.2.99:443
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@170.114.46.41:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-170.114.46.41:8880
 vless://76eab2c7-ce4d-47dc-a0b6-7151dfa08eb0@173.245.49.174:443?security=tls&sni=poin.centerserver.ggff.net&type=ws&host=poin.centerserver.ggff.net&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.49.174:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.244.17:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-5.10.244.17:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.245.226:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-5.10.245.226:8880
@@ -503,3 +501,5 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.171:80?sni=cs.laoyoutia
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.248:8880?type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3?ed%3D2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.248:8880
 vless://d6a1143b-cdf0-41f8-a646-bd8f11663786@199.34.228.47:443?security=tls&sni=cr77.medicalhistory.ir&type=ws&host=cr77.medicalhistory.ir&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.47:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.6.171:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%40ShadowProxy66%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.6.171:8880
+vless://60af76a9-66c2-461e-8545-6fe0ac2822f8@104.21.68.100:443?security=tls&sni=m1qqqqqqq.777289.xyz&type=ws&host=m1qqqqqqq.777289.xyz&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.68.100:443
+vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.136:80?sni=teleirani.ir&type=ws&host=teleirani.ir&path=Telegram@proxy_mtm/?ed%3D2560&fp=random&alpn=h2,http/1.1#🔒 VL-WS-NA 🇺🇸 US-167.82.1.136:80

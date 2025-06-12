@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://3fefc100-faed-43ad-b087-d47ddfe75121@23.227.60.7:443?security=tls&sni=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev&type=ws&host=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev&path=Path%2FTelegram@proxy_mtm%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇨🇦 CA-23.227.60.7:443
-vless://8edae61f-5940-4abe-a30e-570dcdec8e18@104.18.6.36:8443?sni=testvless2-ah2.pages.dev&type=ws&host=testvless2-ah2.pages.dev&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.6.36:8443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.230:8880?type=ws&host=redw.pooriam.ir&path=%2F#🔒 VL-WS-NA 🇵🇭 PH-154.83.2.230:8880
 vless://9279b428-b53c-42a9-8b30-ed1f6f8af2be@151.101.186.133:80?security=none&type=ws&host=6.fidsxss7x.iR#🔒 VL-WS-NONE 🇺🇸 US-151.101.186.133:80
 vless://332af47e-3375-4be0-8f2f-8ca98bf640c6@172.67.73.253:8880?security=none&type=ws&host=orangeorangeйШњжЦѓйБФеНБйїЮдЄЙеНБеИЖ.boxiaa.shop.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.73.253:8880
@@ -503,3 +501,5 @@ vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.150.115.122:8880?security=none&t
 vless://4aaa257a-be34-4fca-a25e-c2fa17159c3c@37.32.43.27:5019?security=none&type=tcp&host=efvu5cgz.speedtest1.shatel.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-37.32.43.27:5019
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@161.145.150.29:2083?security=tls&sni=edccr.aimercc.filegear-sg.me&type=ws&host=edccr.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇺🇸 US-161.145.150.29:2083
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.59.70:2053?security=tls&sni=MaHdisErVEr-asl.pAGEs.DEv&type=ws&host=mAHdIserveR-asL.paGES.dEv&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.59.70:2053
+vless://1cd98bcc-2d8a-40ae-ab62-d201e796e3f5@104.26.15.80:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.15.80:443
+vless://782efefc-aac2-a7f2-6e2b-e42f7bc5d75a@172.66.47.67:443?security=tls&sni=wwwd7e1909f3a7e4477.jostar-data.nl&type=httpupgrade&host=d7e1909f3a7e4477.jostar-data.nl&path=%2Fquran%2Fdeam_net301.67+GB%2F%3Fed%3D2560&fp=firefox&alpn=h3#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-172.66.47.67:443

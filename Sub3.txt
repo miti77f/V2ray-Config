@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@66.81.247.83:80?security=none&type=ws&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇺🇸 US-66.81.247.83:80
-vless://35323594-9ee2-4f06-ae14-3148b6950621@188.114.97.171:80?security=none&type=ws&host=ooao14004.74gwenneth.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.171:80
 vless://fcc65a17-2587-4af5-98ad-f1ea0471ac0f@151.101.2.228:80?security=none&type=ws&host=SeyyedMTtelegramChannel.net#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.228:80
 vless://f07bf2eb-332a-4cc8-b8fa-cfb6b3b9d987@172.67.151.188:8880?security=none&type=kcp#🔒 VL-KCP-NONE 🏴‍☠️ NA-172.67.151.188:8880
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.209:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.209:80
@@ -503,3 +501,5 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.182.84.20:8880?sni=us.laoyoutiao.
 vless://f4859fc9-dc44-11ee-b9ba-00505603e70d@151.101.2.219:443?security=tls&sni=speedtest.net&type=ws&host=01.ir#🔒 VL-WS-TLS 🇺🇸 US-151.101.2.219:443
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.211:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.211:80
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@147.185.161.20:8880?type=ws&host=us.laoyoutiao.link&path=%2F#🔒 VL-WS-NA 🇺🇸 US-147.185.161.20:8880
+vless://bf72c0c8-4309-4661-aff0-144d67db02ff@104.16.163.32:443?security=tls&sni=ad1.xiqpanelz.com&type=ws&host=ad1.xiqpanelz.com&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.163.32:443
+vless://6ff4726f-3650-4803-95eb-50b240f6ac75@104.24.186.156:80?security=none&type=ws&host=red-math-7092-ppal03.mewoco2522.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.186.156:80

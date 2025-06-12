@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://bf72c0c8-4309-4661-aff0-144d67db02ff@104.16.163.32:443?security=tls&sni=ad1.xiqpanelz.com&type=ws&host=ad1.xiqpanelz.com&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.163.32:443
-vless://6ff4726f-3650-4803-95eb-50b240f6ac75@104.24.186.156:80?security=none&type=ws&host=red-math-7092-ppal03.mewoco2522.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.186.156:80
 vless://e868f835-ce9d-4441-a9cc-9b428d9d55d4@108.162.192.85:443?security=tls&sni=1osty0.fivegravity.com&type=ws&host=1osty0.fivegravity.com&path=/wss&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.192.85:443
 vless://216b3705-14c4-4fd7-a412-3b60834defa0@104.21.7.193:80?type=ws&host=0531.bysset3.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.7.193:80
 vless://0ef0630e-544c-4ed0-a4de-861f14695f37@172.66.46.236:443?security=tls&sni=M2-1CM.paGes.DeV&type=ws&host=M2-1CM.paGes.DeV#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.236:443
@@ -503,3 +501,5 @@ vless://5453ae26-250d-4e79-b4ec-016baf806865@104.21.34.159:443?security=tls&sni=
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.12.31.41:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇷🇴 RO-45.12.31.41:2096
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.15:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-141.193.213.15:80
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@14.102.229.66:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-14.102.229.66:8880
+vless://cd9bc0d8-0b5f-4762-b4bf-edd5330998cc@45.131.5.211:8443?security=tls&sni=jj.wxgqlfx.cn&type=ws&host=jj.wxgqlfx.cn&fp=random&alpn=http/1.1#🔒 VL-WS-TLS 🇳🇱 NL-45.131.5.211:8443
+vless://1ac72b71-2d33-4c34-cda0-3428474c4467@172.67.133.166:2083?security=tls&flow=xtls-rprx-vision&sni=mas4jd2.shang2025.ggff.net&type=ws&host=mas4jd2.shang2025.ggff.net&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.133.166:2083
