@@ -499,7 +499,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MGE5MzBjMTdmZjA@43.226.17.11:33604/?plugin=
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202506070920094-qDwEcSPT9B.download.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202506070920094-qDwEcSPT9B.download.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowODI5M2IyMDQ3MDc@156.251.179.79:41174/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fsclbvcgkp%3Bhost%3Dhk6v1.pmxiaonan.xyz%3Btls#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
-vless://cbacaba-abac-baca-bcda-abcbabaacccb@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 THU-22-KHORDAD-1404 🕑 13:25
-vless://acaabcb-bcaa-aacb-cabd-cacaabcbabcb@127.0.0.1:2080?security=tls&type=tcp#🤖 TELEGRAM-CHANNEL 🌟 ARTIFICIAL-INTELLIGENCE 🖥 @NEUROVANCE 🧠
-vless://bacbaac-abac-bcaa-bacd-bacbcabbccaa@127.0.0.1:3080?security=tls&type=tcp#🛡 TELEGRAM-CHANNEL 🔐 MTPROTO-PROXY 🌍 @NEXUPROXY 📡
-vless://f37ce9a9-2ff2-4bbe-9579-afe170049c8a@143.47.237.215:443?security=reality&flow=xtls-rprx-vision&sni=iosapps.itunes.apple.com&type=tcp&fp=ios&pbk=qkP2pqQ3NHNBkyzqsC2W9wChp3OfeXdVjOhUv8vQW0o&sid=aac4df9d05a5ba8f#🔒 VL-TCP-RLT 🇬🇧 GB-143.47.237.215:443
+vless://caabcab-caba-bcaa-cdba-acbbcaabccab@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 THU-22-KHORDAD-1404 🕑 14:32
+vless://babcaca-aabc-cbaa-cabd-cbccabbaaabc@127.0.0.1:2080?security=tls&type=tcp#🤖 TELEGRAM-CHANNEL 🌟 ARTIFICIAL-INTELLIGENCE 🖥 @NEUROVANCE 🧠
+vless://ccaabab-bcaa-caab-acbd-cbacbbbacaac@127.0.0.1:3080?security=tls&type=tcp#🛡 TELEGRAM-CHANNEL 🔐 MTPROTO-PROXY 🌍 @NEXUPROXY 📡
+vless://225d91b3-4874-4387-b818-4747959569cc@143.198.129.12:8080?security=reality&sni=www.stackoverflow.com&type=tcp&fp=chrome&pbk=thc-VR7siUO8hABJdvh_uJ2hyIZlfP47HqY3wcYnTRo&sid=99b1a5f7a6c12422#🔒 VL-TCP-RLT 🇺🇸 US-143.198.129.12:8080
