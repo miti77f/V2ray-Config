@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@131.145.40.72:443#🔒 SS-TCP-NA 🇬🇧 GB-131.145.40.72:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvRlhWWGxHNnY0TmhHTXl4alFxUVFn@193.124.46.196:53024#🔒 SS-TCP-NA 🇹🇷 TR-193.124.46.196:53024
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSbFh4NDVaR3kxUTEyd0Z5RVVCUU5R@81.94.158.148:64300#🔒 SS-TCP-NA 🇷🇺 RU-81.94.158.148:64300
-ss://YWVzLTI1Ni1nY206RzU4WDlRQlJVSzNXRTM3Sw==@185.126.238.37:20004#🔒 SS-TCP-NA 🇬🇷 GR-185.126.238.37:20004
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.71:8091#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:8091
 ss://YWVzLTEyOC1nY206YzFkNDM5Yzc3OTRhYzVjYw==@163.177.58.252:18415#🔒 SS-TCP-NA 🇨🇳 CN-163.177.58.252:18415
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@67.220.95.96:5003#🔒 SS-TCP-NA 🇺🇸 US-67.220.95.96:5003
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiU2paenhLZjd6eE9ZTU16WldoNlp4@77.110.109.86:4443#🔒 SS-TCP-NA 🇺🇸 US-77.110.109.86:4443
@@ -503,3 +498,8 @@ vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@217.179.91.142:34045?allowInsecure=
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@217.179.91.152:34045?allowInsecure=0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&security=tls#15%7CGB_speednode_0047
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@217.179.91.66:34045?allowInsecure=0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&security=tls#15%7CGB_speednode_0048
 trojan://b6fb3816-af03-4b21-b1fc-cb2b70fa2705@t18.emovpn.buzz:2410?allowInsecure=1&sni=www.baidu.com#15%7CHK_speednode_0061
+trojan://b6fb3816-af03-4b21-b1fc-cb2b70fa2705@t29.emovpn.buzz:6123?allowInsecure=1&sni=www.baidu.com#15%7CHK_speednode_0062
+trojan://b6fb3816-af03-4b21-b1fc-cb2b70fa2705@t31.emovpn.buzz:11446?allowInsecure=1&sni=www.baidu.com#15%7CHK_speednode_0066
+trojan://b6fb3816-af03-4b21-b1fc-cb2b70fa2705@t30.emovpn.buzz:3126?allowInsecure=1&sni=www.baidu.com#15%7CHK_speednode_0067
+trojan://b6fb3816-af03-4b21-b1fc-cb2b70fa2705@t17.emovpn.buzz:8123?allowInsecure=1&sni=www.baidu.com#15%7CHK_speednode_0076
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@222.113.39.207:50000?allowInsecure=1&sni=edmx.aimercc.filegear-sg.me&type=ws&host=edmx.aimercc.filegear-sg.me&path=/?ed=2560security=tls#15%7CKR_speednode_0082

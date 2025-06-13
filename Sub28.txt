@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://b6fb3816-af03-4b21-b1fc-cb2b70fa2705@t29.emovpn.buzz:6123?allowInsecure=1&sni=www.baidu.com#15%7CHK_speednode_0062
-trojan://b6fb3816-af03-4b21-b1fc-cb2b70fa2705@t31.emovpn.buzz:11446?allowInsecure=1&sni=www.baidu.com#15%7CHK_speednode_0066
-trojan://b6fb3816-af03-4b21-b1fc-cb2b70fa2705@t30.emovpn.buzz:3126?allowInsecure=1&sni=www.baidu.com#15%7CHK_speednode_0067
-trojan://b6fb3816-af03-4b21-b1fc-cb2b70fa2705@t17.emovpn.buzz:8123?allowInsecure=1&sni=www.baidu.com#15%7CHK_speednode_0076
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@222.113.39.207:50000?allowInsecure=1&sni=edmx.aimercc.filegear-sg.me&type=ws&host=edmx.aimercc.filegear-sg.me&path=/?ed=2560security=tls#15%7CKR_speednode_0082
 vless://74dd96cd-3b12-4e03-8605-aeeb188d93f3@131.186.22.238:443?allowInsecure=0&sni=buylite.music.apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CKR_speednode_0083
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.7.191:80?allowInsecure=0&sni=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&path=/Telegram:@ShadowProxy66/?ed=2560#15%7CNL_speednode_0085
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.4.83:80?allowInsecure=0&sni=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&path=/Telegram:@ShadowProxy66/?ed=2560#15%7CNL_speednode_0086
