@@ -3,26 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://48c1e014-28d6-11ec-a0fc-f23c913c8d2b@be7adf5e-sxsxs0-sz7drj-3z3v.cm5.cnkuaishou.com:27231?allowInsecure=0&sni=be7adf5e-sxsxs0-sz7drj-3z3v.cm5.cnkuaishou.com#15%7CCN_speednode_0005
-trojan://dcccacba-fa44-11ef-8400-f23c9164ca5d@2040b765-sxusg0-sz9r4v-1j6h0.cm5.cnkuaishou.com:27231?allowInsecure=0&sni=2040b765-sxusg0-sz9r4v-1j6h0.cm5.cnkuaishou.com#15%7CCN_speednode_0006
-trojan://21747146-3507-11ed-bb74-f23c9164ca5d@530e712d-sxsxs0-t1smj4-u6bc.cm5.cnkuaishou.com:27231?allowInsecure=0&sni=530e712d-sxsxs0-t1smj4-u6bc.cm5.cnkuaishou.com#15%7CCN_speednode_0007
-trojan://a305ac08-d136-11ee-b6db-f23c91cfbbc9@dc413002-sxusg0-t4cy3j-1qkeg.cm5.cnkuaishou.com:27233?allowInsecure=0&sni=dc413002-sxusg0-t4cy3j-1qkeg.cm5.cnkuaishou.com#15%7CCN_speednode_0008
-trojan://21747146-3507-11ed-bb74-f23c9164ca5d@dca1bd47-sxusg0-t1smj4-u6bc.cm5.cnkuaishou.com:27233?allowInsecure=0&sni=dca1bd47-sxusg0-t1smj4-u6bc.cm5.cnkuaishou.com#15%7CCN_speednode_0009
-trojan://21747146-3507-11ed-bb74-f23c9164ca5d@dca1bd47-sxusg0-t1smj4-u6bc.cm5.cnkuaishou.com:27231?allowInsecure=0&sni=dca1bd47-sxusg0-t1smj4-u6bc.cm5.cnkuaishou.com#15%7CCN_speednode_0010
-trojan://dcccacba-fa44-11ef-8400-f23c9164ca5d@2040b765-sxusg0-sz9r4v-1j6h0.cm5.cnkuaishou.com:27233?allowInsecure=0&sni=2040b765-sxusg0-sz9r4v-1j6h0.cm5.cnkuaishou.com#15%7CCN_speednode_0011
-trojan://FpQhGpIr@36.151.251.62:38632?allowInsecure=1#15%7CCN_speednode_0012
-trojan://HrTsLJvh@36.151.251.62:38632?allowInsecure=1&sni=36.151.251.62#15%7CCN_speednode_0013
-trojan://28213b50-7ed5-11ee-add6-f23c91369f2d@a8876e2e-sxusg0-t7hmka-1plv4.cm5.cnkuaishou.com:27231?allowInsecure=0&sni=a8876e2e-sxusg0-t7hmka-1plv4.cm5.cnkuaishou.com#15%7CCN_speednode_0014
-trojan://21747146-3507-11ed-bb74-f23c9164ca5d@530e712d-sxsxs0-t1smj4-u6bc.cm5.cnkuaishou.com:27233?allowInsecure=0&sni=530e712d-sxsxs0-t1smj4-u6bc.cm5.cnkuaishou.com#15%7CCN_speednode_0016
-trojan://HrTsLJvh@36.151.251.62:38632?allowInsecure=1#15%7CCN_speednode_0017
-trojan://HrTsLJvh@223.111.144.12:43196?allowInsecure=1#15%7CCN_speednode_0020
-trojan://FpQhGpIr@36.151.251.56:4448?allowInsecure=1#15%7CCN_speednode_0021
-trojan://FpQhGpIr@36.151.251.62:38632?allowInsecure=1&sni=36.151.251.62#15%7CCN_speednode_0023
-trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@120.233.44.201:21056?allowInsecure=1&sni=k14.tudou211.com#15%7CCN_speednode_0025
-trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@120.233.44.201:21017?allowInsecure=1&sni=k16.tudou211.com#15%7CCN_speednode_0026
-trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@120.233.44.201:21003?allowInsecure=1&sni=k15.tudou211.com#15%7CCN_speednode_0031
-trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@120.233.44.201:21118?allowInsecure=1&sni=k17.tudou211.com#15%7CCN_speednode_0032
-trojan://21747146-3507-11ed-bb74-f23c9164ca5d@dca1bd47-sxusg0-t1smj4-u6bc.cm5.cnkuaishou.com:27235?allowInsecure=0&sni=dca1bd47-sxusg0-t1smj4-u6bc.cm5.cnkuaishou.com#15%7CCN_speednode_0036
 trojan://21747146-3507-11ed-bb74-f23c9164ca5d@530e712d-sxsxs0-t1smj4-u6bc.cm5.cnkuaishou.com:27235?allowInsecure=0&sni=530e712d-sxsxs0-t1smj4-u6bc.cm5.cnkuaishou.com#15%7CCN_speednode_0037
 vless://d6b65f08-f2ea-4871-aa7f-1ffeb81447d1@92.112.23.189:44073?allowInsecure=0&sni=yahoo.com&fp=chrome&security=tls#15%7CDE_speednode_0041
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@217.179.91.142:34045?allowInsecure=0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&security=tls#15%7CGB_speednode_0046
