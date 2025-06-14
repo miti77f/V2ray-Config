@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.129.197.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#14%7CGB_speednode_0078
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.26.27.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#14%7CGB_speednode_0079
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.170.166.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#14%7CGB_speednode_0080
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@104.239.72.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#14%7CGB_speednode_0081
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.193.31.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#14%7CGB_speednode_0082
