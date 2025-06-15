@@ -498,8 +498,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowODI5M2IyMDQ3MDc@156.251.179.238:42084/?plug
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MzYwYWRjZWEwYjE@43.226.17.11:443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2Fbylnxldqaquw%3Bhost%3Dkr6v1.dashengjs.net%3Btls#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202506131022370-yLzbxEkmoB.download.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202506131022370-yLzbxEkmoB.download.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-vless://aaccbab-cbaa-bcaa-cabd-cabcabcabbac@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 SUN-25-KHORDAD-1404 🕑 10:36
-vless://abacacb-baca-caab-bdca-acabcabbcabc@127.0.0.1:2080?security=tls&type=tcp#🤖 TELEGRAM-CHANNEL 🌟 ARTIFICIAL-INTELLIGENCE 🖥 @NEUROVANCE 🧠
-vless://cbaacab-cbaa-abca-dabc-bcbccbaacaab@127.0.0.1:3080?security=tls&type=tcp#🛡 TELEGRAM-CHANNEL 🔐 MTPROTO-PROXY 🌍 @NEXUPROXY 📡
-vless://eff09fb3-17f7-44ee-bc00-6fa5a3e0e9da@135.181.64.31:54401?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=AqGO4WCsGfcX046DebowJcVTKANHPazld7XyAHD_RQE&sid=e5201e3c#🔒 VL-TCP-RLT 🇫🇮 FI-135.181.64.31:54401
-vless://86a4b3b1-a6ba-46e5-9f7a-807bfe9c4367@188.245.105.2:443?security=reality&flow=xtls-rprx-vision&sni=docker.com&type=tcp&fp=chrome&pbk=fD7tYLaNuuNWZm7a9RgKGa8AG2xUCCpN-Jhie4FaxwI&sid=6734#🔒 VL-TCP-RLT 🇩🇪 DE-188.245.105.2:443
+vless://caabcba-acab-caba-acbd-bbaaccbccaab@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 SUN-25-KHORDAD-1404 🕑 11:23
+vless://acacbba-aacb-abca-cdab-aaabcccbcbba@127.0.0.1:2080?security=tls&type=tcp#🤖 TELEGRAM-CHANNEL 🌟 ARTIFICIAL-INTELLIGENCE 🖥 @NEUROVANCE 🧠
+vless://acbcaba-baca-baac-bdca-aabaabcccbbc@127.0.0.1:3080?security=tls&type=tcp#🛡 TELEGRAM-CHANNEL 🔐 MTPROTO-PROXY 🌍 @NEXUPROXY 📡
+vless://c6fc5c04-f087-49cc-a3df-2a37ef490467@167.71.61.199:21367?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=bGfBNbN30La6XWb4Cakg4y7kRCiveT2LpWYhK8r3-BI&sid=866c9d6a17a0ae44#🔒 VL-TCP-RLT 🇩🇪 DE-167.71.61.199:21367
+vless://cbc9daf3-e5ce-4fae-883e-48959f38f159@85.133.201.242:2341?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#🔒 VL-TCP-RLT 🇮🇷 IR-85.133.201.242:2341
