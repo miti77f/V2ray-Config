@@ -498,8 +498,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowODI5M2IyMDQ3MDc@156.251.179.238:42084/?plug
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MzYwYWRjZWEwYjE@43.226.17.11:443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2Fbylnxldqaquw%3Bhost%3Dkr6v1.dashengjs.net%3Btls#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202506131022370-yLzbxEkmoB.download.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202506131022370-yLzbxEkmoB.download.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-vless://aabbcca-aabc-abca-bacd-cbcbaaabccab@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 SUN-25-KHORDAD-1404 🕑 14:33
-vless://ababacc-bcaa-caba-cbda-cbbbaacacacb@127.0.0.1:2080?security=tls&type=tcp#🤖 TELEGRAM-CHANNEL 🌟 ARTIFICIAL-INTELLIGENCE 🖥 @NEUROVANCE 🧠
-vless://acacbba-abca-abca-cdab-aaccbababccb@127.0.0.1:3080?security=tls&type=tcp#🛡 TELEGRAM-CHANNEL 🔐 MTPROTO-PROXY 🌍 @NEXUPROXY 📡
-vless://a3c644e8-a906-4262-926d-8197cc5642bd@86.105.4.199:8295?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=jAMPNXKmyWrMP8Q5U3x1an17VmL3bwhWtcWgTZsPc1s#🔒 VL-TCP-RLT 🇹🇷 TR-86.105.4.199:8295
-vless://f0f8ae10-e52f-4454-f5ac-55b4e25eeb73@64.227.35.202:443?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=tnDvChtpeNANGe52_QG3Jx6esgMTil1tcg7jlYPmoRY#🔒 VL-TCP-RLT 🇬🇧 GB-64.227.35.202:443
+vless://bcaabca-baca-caba-abcd-acabbacbaccb@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 SUN-25-KHORDAD-1404 🕑 15:20
+vless://abaabcc-aacb-acba-bacd-caccbbcbabaa@127.0.0.1:2080?security=tls&type=tcp#🤖 TELEGRAM-CHANNEL 🌟 ARTIFICIAL-INTELLIGENCE 🖥 @NEUROVANCE 🧠
+vless://cabaabc-acba-bcaa-cdba-bbcaacaabccb@127.0.0.1:3080?security=tls&type=tcp#🛡 TELEGRAM-CHANNEL 🔐 MTPROTO-PROXY 🌍 @NEXUPROXY 📡
+vless://19ce2438-558d-4d24-ad7c-33d8c73f8d20@188.245.65.4:443?security=reality&sni=frcaa.crocodileserver.ir&type=tcp&fp=firefox&pbk=bNqWVghgIlng83CQFziNhIA8TTKUFsv0gHkVxbBOmh8&sid=1da8d08f24e92861#🔒 VL-TCP-RLT 🇩🇪 DE-188.245.65.4:443
+vless://00dfdd9e-c793-44b7-f15d-f37b53f52ce8@89.42.211.170:80?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=yYv9vuo4k2scMcm85us3qCADcfhGl9EEB2PjG1MNE10#🔒 VL-TCP-RLT 🇮🇷 IR-89.42.211.170:80
