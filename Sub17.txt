@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://6501e93f-a458-4f3d-81bd-2f1e58c2bc3b@104.21.11.178:443?security=tls&sni=7xVB-b9Ws5Zjp6cYjvW89zRKU9GMuPW6.maryAFArhUnI.WORkers.dEv&type=ws&host=7xvb-b9ws5zjp6cyjvw89zrku9gmupw6.maryafarhuni.workers.dev&path=%2FwwtrfZKsmiJjvu6S%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.11.178:443
 vless://cb8d3f8f-0628-47a0-e083-13d97b9e4ea2@199.232.0.20:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=rohammmmmvistav2.ir&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-199.232.0.20:443
 vless://6ef7d792-217a-7c78-c5c4-c5bd072037a6@188.213.69.93:8880?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-188.213.69.93:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.97:80?type=ws&host=cs.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%2B%40WangCai2%2B%2F%3Fed%3D2560#🔒 VL-WS-NA 🇺🇸 US-141.193.213.97:80
@@ -502,4 +503,3 @@ vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.229:80?security=none&ty
 vless://5abe79f6-57c2-4999-b6a0-bb87a9496a37@104.21.72.150:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.72.150:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.116:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-5.10.214.116:8880
 vless://95267673-3bee-486b-b591-59baa689bb7e@185.146.173.63:2096?security=tls&sni=bili6.blancerconfiguren.info&type=ws&host=bili6.blancerconfiguren.info&path=/&alpn=h3h2#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.63:2096
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.208.162:2096?security=tls&sni=JpHzJdVn23.bLuEvIa.oRg&type=ws&host=JpHzJdVn23.bLuEvIa.oRg&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇳🇱 NL-45.131.208.162:2096

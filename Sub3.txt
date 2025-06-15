@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://54c5f9f1-1f0d-4d61-9eb8-db65a1f62d56@104.17.177.51:443?security=tls&sni=salad.1945157171.workers.dev&type=ws&host=salad.1945157171.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.177.51:443
 vless://588f094b-431b-422c-b80b-007945037072@2.56.178.47:443?security=tls&sni=ru05.abvpn.ru&type=ws&host=ru05.abvpn.ru&path=%2Fwebsocket#🔒 VL-WS-TLS 🇷🇺 RU-2.56.178.47:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.42.47:443?security=tls&sni=PPaL03.AbDulLAH-MAVerYcK.woRKeRS.DEv&type=ws&host=pPal03.aBDuLlaH-maverYCk.workeRs.deV&path=%2FaU9CfsWoY5YeBGLV%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.42.47:443
 vless://ef99db55-2bf9-4a8e-b370-21cfc902f016@141.11.202.251:8080?security=none&type=httpupgrade&host=vip.donghi.ir#🔒 VL-HTTPUPGRADE-NONE 🇫🇷 FR-141.11.202.251:8080
@@ -502,4 +503,3 @@ vless://5181717e-892b-45a9-a8b7-e6d5fac1c77b@172.67.128.244:2082?security=none&t
 vless://b2211bd9-5eba-4141-b80d-a6c335b2e751@172.66.44.207:443?security=tls&sni=bESttIvPN.paGEs.Dev&type=ws&host=bESttIvPN.paGEs.Dev&alpn=h2%2Chttp/1.1&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.207:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.251.81.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇪🇸 ES-185.251.81.29:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@190.93.244.213:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-190.93.244.213:8880
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.8.211.61:80?sni=ipsycho.suex12.ir&type=ws&host=ipsycho.suex12.ir&allowInsecure=1#🔒 VL-WS-NA 🇷🇺 RU-45.8.211.61:80
