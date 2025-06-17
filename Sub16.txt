@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://85e11d8a-6868-44d3-b241-d6c8c11a82be@104.19.236.191:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.236.191:443
+vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@5.180.45.70:12000?security=tls&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua#🔒 VL-WS-TLS 🇹🇷 TR-5.180.45.70:12000
+vless://c2795ae1-2cbf-49a0-931e-11800a1e6a8a@172.66.47.65:443?security=tls&sni=beStiIivpn.PAGEs.dev&type=ws&host=bestiiivpn.pages.dev&path=%2FknJkxGd95pCdZ0n4%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.65:443
 vless://825e6dbe-73f7-4f2f-a15e-93dce526c31d@185.206.92.209:5059?security=none&type=xhttp&path=%2F#🔒 VL-XHTTP-NONE 🇮🇷 IR-185.206.92.209:5059
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.128:80?type=ws&host=us.laoyoutiao.link&path=TelegramрЯЗ#🔒 VL-WS-NA 🇺🇸 US-141.193.213.128:80
 vless://f184c89c-80a4-4a3a-bc67-97db43266c11@91.149.240.37:443?security=tls&sni=vdd.wxgqlfx.cn&type=ws&host=vdd.wxgqlfx.cn&path=%2FTG%40wxgqlfx%3Fed%3D2560&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🇳🇱 NL-91.149.240.37:443
@@ -500,6 +503,3 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.176:8880?type=ws&host=sg
 vless://34bd74ff-23a0-45cd-97fb-20da6f866689@172.67.190.58:8880?security=none&type=httpupgrade&host=13.v3.n.www.speedtest.net.dnschecker.one.chanel97.online.&path=TelegramChanel:t.me/HTTP_injector99#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.190.58:8880
 vless://8b93c41b-69b9-45bc-bf1e-28f37843528e@178.239.146.154:60?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-178.239.146.154:60
 vless://dc100d19-987f-4eae-8f40-6ef942fb9e96@172.66.44.93:2083?security=tls&sni=JoiNMAhdiSeRVEr-tc5.Pages.dEV&type=ws&host=joinmahdiserver-tc5.pages.dev&path=%2Fd6Yfzw560AUxW64Q%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.93:2083
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@216.24.57.36:443?sni=sl.ylka.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-216.24.57.36:443
-vless://aba23245-8389-4d61-a6c3-b72e8603b1bb@151.101.59.75:80?security=none&type=xhttp&host=jabervistaroham.com&path=%2F%3Fed%3D2048#🔒 VL-XHTTP-NONE 🇺🇸 US-151.101.59.75:80
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.134:443?sni=nn.ylks0033.dpdns.org&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-160.79.105.134:443

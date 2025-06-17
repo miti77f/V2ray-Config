@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://Aimer@172.67.65.113:2083?sni=epcch.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A595
+trojan://Aimer@104.168.87.155:3306?sni=epms.ambercc.filegear-sg.me#US19
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lOTYiLCJhZGQiOiIzNy4zMi40MS4yMDgiLCJwb3J0IjoiMTkwMSIsImlkIjoiNmFmZjRmOWMtNGVlYS00NTMwLThjZmYtMDZkZGFmMWNkMTNmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoibm9uZSIsInNuaSI6IiIsInRlc3RfbmFtZSI6Ijk2In0=
+trojan://512d9674-db12-44ca-a1b5-654244549b65@172.67.165.122:443?sni=gghui.4444936.xyz#%E6%9C%AA%E7%9F%A597
+trojan://6gUCk7hlRJ@104.17.27.198:8443?security=tls&type=ws&sni=MIKasA.drAgoNAllEy.iR.&path=/&host=MIKasA.drAgoNAllEy.iR.#%E6%9C%AA%E7%9F%A598
+trojan://Aimer@172.67.145.119:443?sni=epccj.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A599
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.153:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#%E6%9C%AA%E7%9F%A5100
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:23012?sni=97.yuanul.com#%E6%9C%AA%E7%9F%A5101
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.129:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#%E6%9C%AA%E7%9F%A5102
@@ -497,9 +503,3 @@ trojan://ttfang@8.219.77.72:5027?allowInsecure=1&sni=ttfang.fange.me&type=ws&hos
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.243.75.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#14%7CSG_speednode_0283
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@27.50.48.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CSG_speednode_0284
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.243.74.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#14%7CSG_speednode_0285
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@27.50.49.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CSG_speednode_0286
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.243.75.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CSG_speednode_0287
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.243.74.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#14%7CSG_speednode_0288
-trojan://ttfang@138.2.95.61:1111?allowInsecure=1&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/#14%7CSG_speednode_0289
-vless://58e5e0f1-1702-430e-8046-59dc971dd035@188.166.191.225:443?allowInsecure=1&sni=epcgame.com&alpn=h3%2Ch2%2Chttp/1.1&fp=chrome&security=tls#14%7CSG_speednode_0290
-trojan://ttfang@152.69.220.136:53076?allowInsecure=1&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/#14%7CSG_speednode_0291
