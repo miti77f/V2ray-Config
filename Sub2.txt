@@ -499,7 +499,7 @@ vless://34cf07e4-0c8c-425f-afe5-45c07fd49f87@133.18.104.235:33001?security=reali
 vless://021423af-85fc-4bb6-b32e-deeed97581e1@143.14.220.136:46430?security=reality&sni=yahoo.com&type=tcp&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&fp=chrome&pbk=kQoMZ1G4jwT9yTlF-NtZwhG22j3NQhzlvGsiiLxrLzI&sid=e27f3a#🔒 VL-TCP-RLT 🇺🇸 US-143.14.220.136:46430
 vless://33d0980e-4054-474b-8f7c-05bf426963f1@91.99.144.165:2029?security=reality&sni=stackoverflow.com&type=xhttp&path=%2FAS&fp=chrome&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8#🔒 VL-XHTTP-RLT 🇩🇪 DE-91.99.144.165:2029
 vless://aabbcca-caba-aacb-dbca-acbababbcacc@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
-vless://bcbaaac-cbaa-baca-bdac-abcaabcbcacb@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 WED-28-KHORDAD-1404 🕑 00:32
-vless://cababca-abca-aacb-dcab-caaabbbcccba@127.0.0.1:2080?security=tls&type=tcp#🤖 TELEGRAM-CHANNEL 🌟 ARTIFICIAL-INTELLIGENCE 🖥 @NEUROVANCE 🧠
-vless://acabbca-aabc-caab-dcba-caccabbbbaac@127.0.0.1:3080?security=tls&type=tcp#🛡 TELEGRAM-CHANNEL 🔐 MTPROTO-PROXY 🌍 @NEXUPROXY 📡
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@167.68.4.227:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-167.68.4.227:8880
+vless://ababcca-cbaa-caba-bcda-abcccaabbacb@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 WED-28-KHORDAD-1404 🕑 01:27
+vless://ccbaaab-baca-aacb-cdba-bbbbaaccaacc@127.0.0.1:2080?security=tls&type=tcp#🤖 TELEGRAM-CHANNEL 🌟 ARTIFICIAL-INTELLIGENCE 🖥 @NEUROVANCE 🧠
+vless://abcacab-bcaa-caba-dcba-accccbbbaaab@127.0.0.1:3080?security=tls&type=tcp#🛡 TELEGRAM-CHANNEL 🔐 MTPROTO-PROXY 🌍 @NEXUPROXY 📡
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@108.165.152.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/#🔒 VL-WS-NA 🇺🇸 US-108.165.152.29:8880
