@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://Aimer@104.19.60.173:443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A537
 trojan://Aimer@172.67.71.79:443?sni=epccx.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A538
 trojan://Aimer@172.64.144.173:443?sni=epcch.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A539
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#%E6%9C%AA%E7%9F%A540%2020.5MB%2Fs
@@ -503,3 +502,4 @@ vless://c60ee633-a180-436a-b6ad-746653780c0b@104.21.16.1:2096?allowInsecure=0&sn
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@104.21.21.129:443?allowInsecure=0&sni=azadnet-btq.pages.dev&type=ws&host=azadnet-btq.pages.dev&path=/azadnet-btq.pages.dev/?ed=2560fp=randomized&security=tls#14%7CUS_speednode_0218
 vless://bce0c7cb-08d1-46a7-b77b-7bff8b46252f@104.21.94.69:443?allowInsecure=0&sni=FfFfffFFFf.000890604.Xyz&alpn=http/1.1&type=ws&host=FfFfffFFFf.000890604.Xyz&path=/Ryxyg63Pk7cFSnZBROjL3Q5vTymrfp=chrome&security=tls#14%7CUS_speednode_0219
 vless://71249757-4338-44d4-bf48-e6a6f2bf9eb5@104.21.30.128:443?allowInsecure=0&sni=aio.unlimited.Biz.iD&type=ws&host=aio.unlimited.Biz.iD&path=/aioproxybot/8.215.59.6-443security=tls#14%7CUS_speednode_0220
+vless://07a3df8f-2a2c-42f8-ad92-65889d90f3bf@172.67.204.22:443?allowInsecure=0&sni=DdDFRt5.890602.xyZ&alpn=http/1.1&type=ws&host=DdDFRt5.890602.xyZ&path=/5UW2C42lpZ7Dj4VDwVOkZfoqfp=chrome&security=tls#14%7CUS_speednode_0221
