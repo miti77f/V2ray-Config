@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://a739ad80-0aab-40b2-9b0e-8192c74287ef@104.21.54.114:443?security=tls&sni=faruzan.changli.ddns-ip.net&type=ws&host=faruzan.changli.ddns-ip.net&path=%2Fproxyip%3Dnavia.shorekeeper.ir&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.54.114:443
+vless://ada6d0f5-9820-41d2-b098-f0513fcd171a@104.17.147.22:8880?security=none&type=ws&host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:8880
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@130.250.137.251:8880?sni=Telegram-channel-WangCai2&type=ws&host=0926.qiang2000.link&path=/Telegram🇨🇳&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-130.250.137.251:8880
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@164.38.155.99:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-164.38.155.99:8880
 vless://d2901eeb-586c-45d5-9347-86a093ff3713@185.49.105.237:32348?security=none&type=tcp&host=trexplus.org%2Crubika.ir%2Csoft98.ir%2Csnapp.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.49.105.237:32348
@@ -501,5 +503,3 @@ vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@104.18.2.108:8443?sni=ex.sue.x10.mx
 vless://236d825d-ff2e-4751-af97-6ba3a34675fe@104.24.180.93:443?security=tls&sni=abnercosmico.cc&type=ws&host=abnercosmico.cc#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.180.93:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@164.38.155.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-164.38.155.63:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.131.209.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🇳🇱 NL-45.131.209.213:8880
-vless://05dc7e04-4ee0-4c72-8acb-145b8122077d@162.159.192.90:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.90:443
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@139.64.235.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-139.64.235.247:8880

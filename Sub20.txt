@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.200:80?type=ws&host=gozargah.validbv7996.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.200:80
+vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.21.75.14:443?security=tls&sni=bypassfilter.nuktsv.workers.dev&type=ws&host=bypassfilter.nuktsv.workers.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.75.14:443
 vless://d345d11e-c424-4583-b36e-527ab1f0afa4@104.18.10.128:2086?sni=v2raynselling.kir-rasol-kir.workers.dev&type=ws&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.10.128:2086
 vless://592bac53-90ec-44b5-811b-01f6adf28f41@104.16.203.166:80?security=none&type=ws&host=wild-glade-236b-ppal03.xawego3471.workers.dev&path=/?ed%3D2560@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.203.166:80
 vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@104.18.6.190:2096?security=tls&sni=verina.cantarella.dns-dynamic.net&type=ws&host=verina.cantarella.dns-dynamic.net&path=%2Fproxyip%3Drobin.yaemiko.ggff.net&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.6.190:2096
@@ -501,5 +503,3 @@ vless://67534bac-51db-4f20-94b7-ba4971f64b15@104.18.205.33:443?security=tls&sni=
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.12.30.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇷🇴 RO-45.12.30.63:8880
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.148.25:22224?security=tls&sni=trojan.burgerip.co.uk&type=ws&path=%2Ftelegram-channel-vlessconfig#🔒 VL-WS-TLS 🇩🇪 DE-63.177.148.25:22224
 vless://38c43ecd-23d4-4e20-9b14-fc624708f01d@104.16.157.108:8080?type=httpupgrade&host=masterserver1.nanvrfood.ir.&path=%2F%40MaSTeRSeRVeR1-%40-MaSTeRSeRVeR1%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NA 🏴‍☠️ NA-104.16.157.108:8080
-vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@162.159.38.101:2096?security=tls&sni=ngedc.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.38.101:2096
-vless://4088e698-69fd-4d15-98bc-f1fe4c071642@18.183.158.211:443?security=tls&sni=photosair.ir&type=ws&host=photosair.ir&path=%2Fbing#🔒 VL-WS-TLS 🇯🇵 JP-18.183.158.211:443

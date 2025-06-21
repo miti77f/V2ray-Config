@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://4527ff0c-8ac2-452a-95cb-c2d29e5a8421@104.16.143.139:2096?security=tls&sni=ghh.wsthh.site&type=ws&host=ghh.wsthh.site&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.143.139:2096
+vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.3.186:443?security=tls&sni=vp33.hiddendom.shop&type=grpc&host=vp33.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.3.186:443
 vless://81936cbd-6f9a-4f53-adf8-b8822e77b461@172.67.34.58:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.34.58:443
 vless://15b24b56-d667-4fa8-b548-f3dc942fb461@104.21.30.167:443?security=tls&sni=d3332856-cd74.2032.pp.ua&type=ws&host=d3332856-cd74.2032.pp.ua#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.30.167:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.217:8880?type=ws&host=sg.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2048#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.217:8880
@@ -501,5 +503,3 @@ vless://8aa58cd4-00d8-4f80-9153-49b574db0937@162.159.128.233:2096?security=tls&s
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@135.84.74.251:8880?sni=Telegram-channel-WangCai2&type=ws&host=0926.qiang2000.link&path=/Telegram🇨🇳&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-135.84.74.251:8880
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.89:8443?security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.89:8443
 vless://7b1c5bee-19f1-422f-8be2-e03175fabe4a@104.248.168.91:80?security=none&type=ws#🔒 VL-WS-NONE 🇬🇧 GB-104.248.168.91:80
-vless://bf5fc710-47eb-4cef-b0f6-9349f3f4d905@188.114.97.233:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.233:443
-vless://cf8c791e-9d0b-4e90-aaf6-41ac62468416@104.21.26.17:443?security=tls&sni=IiIIIiiIIIiiO.459.pp.uA&type=ws&host=iiiiiiiiiiiio.459.pp.ua&path=%2FdtBdvnoJO8180gomOew3d&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.26.17:443

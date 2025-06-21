@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://bf5fc710-47eb-4cef-b0f6-9349f3f4d905@188.114.97.233:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.233:443
+vless://cf8c791e-9d0b-4e90-aaf6-41ac62468416@104.21.26.17:443?security=tls&sni=IiIIIiiIIIiiO.459.pp.uA&type=ws&host=iiiiiiiiiiiio.459.pp.ua&path=%2FdtBdvnoJO8180gomOew3d&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.26.17:443
 vless://53bea386-912e-4fe3-9eff-59c2285a176c@194.50.216.61:2053?security=tls&sni=9.neshaan.org&type=ws&host=9.neshaan.org&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇮🇷 IR-194.50.216.61:2053
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@198.41.209.248:443?security=tls&sni=rayan-07.parastoo.dpdns.org&type=ws&host=rayan-07.parastoo.dpdns.org&path=%2F%40Rayan_Config&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.209.248:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@5.10.247.185:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇳🇱 NL-5.10.247.185:8880
@@ -501,5 +503,3 @@ trojan://ttfang@171.103.232.58:20475?sni=ttfang.fange.me&allowInsecure=0#🔒 TR
 trojan://Aimer@104.18.9.214:443?sni=epccu.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.9.214:443
 trojan://Aimer@162.159.142.4:443?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.142.4:443
 trojan://Aimer@172.67.157.174:443?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.157.174:443
-trojan://Uk%2AdIGV0BkVb@104.21.48.1:2083?security=tls&sni=tasnim.twn24.ir&type=ws&host=tasnim.twn24.ir&path=/HCVjhhL2#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.48.1:2083
-trojan://Aimer@104.22.53.90:443?sni=epcch.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.22.53.90:443
