@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.43.90:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.43.90:443
+vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.48.128:2086?security=none&type=ws&host=0118.kznyoum2.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.48.128:2086
+vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@147.78.140.58:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇧🇬 BG-147.78.140.58:8880
+vless://293dbd19-eaec-43f0-dcde-2944af021dd4@77.75.199.177:8880?security=none&type=httpupgrade&host=S130.DdigicYber.clicK.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D1024#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-77.75.199.177:8880
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.160:80?security=none&type=ws&host=foffmelo.com#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.160:80
 vless://f5352773-b7b0-4ce3-9de7-21562ba8890d@104.22.70.81:443?security=tls&sni=inputbugwildcard.cloudproxyip.my.id.loss.cloudproxyip.my.id&type=ws&host=inputbugwildcard.cloudproxyip.my.id.loss.cloudproxyip.my.id&path=%2FFree-CF-Proxy-FR8&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.70.81:443
 vless://3cb6d79c-c728-4209-b6ee-663c41747f68@78.109.194.131:41253?type=tcp&host=zula.ir&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-78.109.194.131:41253
 vless://9fdc6f83-bfbd-40dd-8e4e-1678ee20351c@185.146.173.100:443?security=tls&sni=fari21.ati-app.com&type=ws&host=fari21.ati-app.com&path=%2Fwss&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.100:443
@@ -498,8 +503,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.20:8880?type=grpc#🔒 V
 vless://255b4df3-080b-4846-866c-24992a29467d@146.75.106.133:443?security=tls&sni=huffingtonpost.es&type=xhttp&host=Kowroshhormozvpn.global.ssl.fastly.net&path=/&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-XHTTP-TLS 🇺🇸 US-146.75.106.133:443
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.233:80?type=ws&host=gozargah.validbv7996.ir&path=Telegram%40ShadowProxy66%2F%3Fed%3D2560#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.233:80
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@54.242.43.74:443?security=tls&flow=xtls-rprx-vision-udp443&sni=zula.ir&fp=chrome&allowInsecure=0#🔒 VL-TCP-TLS 🇺🇸 US-54.242.43.74:443
-vless://897a4bec-26b8-11e8-94be-00505695472c@172.67.217.170:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.217.170:443
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.247.172:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.247.172:443
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.19.150.106:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.150.106:443
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.127:80?sni=301.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.127:80
-vless://80ce8c17-f249-471b-b78a-17a60f17b1be@104.21.19.124:80?security=none&type=ws&host=www.moji1372.buzz&path=%2Ftelegram%2Fid%2Fov2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.19.124:80
