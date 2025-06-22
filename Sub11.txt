@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://8145d8de-9256-4fbc-9943-50600a1f0a82@62.60.177.255:1043?security=none&type=tcp&host=rubika.ir%2C%20igap.net%2C%20splus.ir%2C%20skyroom.online&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.177.255:1043
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@185.59.218.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇷🇺 RU-185.59.218.247:8880
 vless://112858f5-760f-4886-95c1-c87b3b6b298e@104.24.35.106:443?security=tls&sni=sbs666.jjjj2024.sbs&type=ws&host=sbs666.jjjj2024.sbs&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.35.106:443
 vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@185.246.155.198:443?security=tls&sni=vkk.wxgqlfx.cn&type=ws&host=vkk.wxgqlfx.cn&path=%2FTG%40wxgqlfx%3Fed%3D2560&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🇳🇱 NL-185.246.155.198:443
 vless://644d3187-a18f-4345-b3ff-dffaea570311@104.21.90.252:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.90.252:443
@@ -501,5 +503,3 @@ vless://485377c6-2e50-4644-8779-73fe1c202cb1@104.16.206.195:443?security=tls&sni
 vless://7b33f59f-aada-4b49-a4ac-1c335977f2af@104.26.12.140:8443?security=tls&sni=vless1-698.pages.dev&type=ws&host=vless1-698.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.140:8443
 vless://9d6315f7-f272-4806-97c8-5fdaafad391e@172.67.177.223:80?security=none&sni=lot.sosant.dpdns.org&type=ws&host=lot.sosant.dpdns.org&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.177.223:80
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@159.112.235.42:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-159.112.235.42:8880
-vless://e9e437c2-1ee5-4f0d-ae09-4bfafc835e47@185.143.233.5:2086?security=none&type=ws&host=iriknet.ir&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-185.143.233.5:2086
-vless://c7a480bc-579c-424d-a1f9-8f773458d4a7@185.143.232.201:443?security=tls&sni=nv139.momdping.com&type=ws&path=/#🔒 VL-WS-TLS 🇮🇷 IR-185.143.232.201:443

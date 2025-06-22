@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.24:8880?type=ws&host=us.laoyoutiao.link&path=/TelegramрЯЗ®рЯЗ≥#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.24:8880
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.195:2096?security=tls&sni=1749800520363.wk.by.ktff.ss#🔒 VL-TCP-TLS 🏴‍☠️ NA-141.101.120.195:2096
 vless://0a022137-d5d7-48f9-96cf-11b57210d12d@190.93.245.137:8880?security=none&type=httpupgrade&host=vihypercloud.academigroup.ir.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-190.93.245.137:8880
 vless://8ecc2a9f-b164-453b-b768-6447ce1eb549@104.18.165.203:2052?security=none&type=httpupgrade&host=gmmm-opiranbooster.superip.ir.&path=%2F%3Fed%3D8880#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.18.165.203:2052
 vless://a1ca79aa-718c-4903-8540-e1699d08031a@151.101.10.133:80?security=none&type=ws&host=namehmain.com&path=%2FTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%3Fed%3D2048#🔒 VL-WS-NONE 🇧🇪 BE-151.101.10.133:80
@@ -501,5 +503,3 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.30.234:80?security=none&type=
 vless://4b8fa6eb-2834-4bc3-acf9-971819ae42a0@2.189.85.180:3060?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-2.189.85.180:3060
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.26:8880?type=grpc#🔒 VL-GRPC-NA 🇸🇪 SE-88.216.214.26:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@108.162.196.63:8880?sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-108.162.196.63:8880
-vless://a4e4845c-80ef-456f-8326-5683708cc5f2@193.151.132.171:6590?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.132.171:6590
-vless://0870a931-b121-1278-f010-b140a958a300@156.238.19.165:443?security=tls&sni=ital.supercyberpower.com&type=ws&host=ital.supercyberpower.com&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇯🇵 JP-156.238.19.165:443
