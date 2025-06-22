@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:12106?sni=110.yuanul.com&allowInsecure=0#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:12106
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@120.241.226.93:2053?sni=45.32.28.232#🔒 TR-TCP-NA 🇨🇳 CN-120.241.226.93:2053
+trojan://ttfang@198.41.220.206:443?security=tls&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=%2F&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.206:443
 trojan://Aimer@104.16.12.222:443?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.12.222:443
 trojan://Aimer@188.164.159.246:2096?sni=epcct.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇦🇲 AM-188.164.159.246:2096
 trojan://ttfang@172.64.156.218:443?sni=ttfang.fange.me&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.156.218:443
@@ -500,6 +503,3 @@ trojan://amclubs@154.83.2.125:2087?sni=tran.amclubstest.nyc.mn#🔒 TR-TCP-NA �
 trojan://ttfang@168.138.171.70:23280?sni=ttfang.fange.me&allowInsecure=0#🔒 TR-TCP-NA 🇸🇬 SG-168.138.171.70:23280
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:12018?sni=64.yuanul.com#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:12018
 trojan://357b1bba-6400-4944-baff-1b933311ff28@172.67.177.109:443?security=tls&sni=EeEEeEEeeeeeeE.666461.xyz&type=ws&host=eeeeeeeeeeeeee.666461.xyz&path=%2FHbjLgzKC7MBYIsgt&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.177.109:443
-trojan://ttfang@172.64.156.106:443?sni=ttfang.fange.me&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.156.106:443
-trojan://4c57a4f7-e137-4e0d-97c0-2f06bbcd2f2e@141.193.213.8:443?security=tls&sni=catro51avxe7b8r2pw.jjjiedian6j4tblb.com&type=ws&host=catro51avxe7b8r2pw.jjjiedian6j4tblb.com&path=/images#🔒 TR-WS-TLS 🇺🇸 US-141.193.213.8:443
-trojan://e9b4bdbd-cc5b-4a90-9616-ea0f1092ec7c@104.21.32.1:443?security=tls&sni=ttYUi.7777198.xYZ&type=ws&host=ttyui.7777198.xyz&path=%2Fs1XRkMWuneQkqtp5KKSues&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.32.1:443

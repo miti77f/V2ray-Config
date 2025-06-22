@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://Aimer@104.18.79.176:443?sni=epccu.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.79.176:443
+trojan://amclubs@156.238.19.69:2096?security=tls&sni=tran.amclubstest.nyc.mn&type=ws&host=tran.amclubstest.nyc.mn#🔒 TR-WS-TLS 🇯🇵 JP-156.238.19.69:2096
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@138.2.107.107:443?sni=icecream.955850.xyz#🔒 TR-TCP-NA 🇸🇬 SG-138.2.107.107:443
 trojan://ttfang@198.41.220.148:443?security=tls&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=%2F&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.148:443
 trojan://Aimer@162.159.130.44:443?sni=epccu.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.130.44:443
 trojan://juzi@172.66.46.221:443?security=tls&sni=juzi8186-sr1.pages.dev&type=ws&host=juzi8186-sr1.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.46.221:443
@@ -500,6 +503,3 @@ trojan://4Tze3Ri*i%23Fo@104.21.44.185:8443?security=tls&sni=soft.onetwothree123.
 trojan://Aimer@104.21.229.169:443?sni=epccn.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.229.169:443
 trojan://blue2024@190.93.245.154:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-190.93.245.154:443
 trojan://Aimer@162.159.142.25:443?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.142.25:443
-trojan://cd41b9d7-df15-46ad-a778-257b0851525a@54.254.153.213:443?security=tls&sni=sg01.trojanyyds.xyz&allowInsecure=1#🔒 TR-TCP-TLS 🇸🇬 SG-54.254.153.213:443
-trojan://Aimer@103.116.7.220:2096?sni=epccj.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-103.116.7.220:2096
-trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@120.233.44.201:21003?allowInsecure=0#🔒 TR-TCP-NA 🇨🇳 CN-120.233.44.201:21003

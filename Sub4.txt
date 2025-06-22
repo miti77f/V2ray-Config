@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.60.23:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.60.23:443
+vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.144.94:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.144.94:443
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@155.46.167.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🇺🇸 US-155.46.167.213:8880
 vless://401374e6-df77-41fb-f638-dad8184f175b@5.10.246.60:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇳🇱 NL-5.10.246.60:443
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@199.34.228.178:2096?security=tls&sni=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm&type=ws&host=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm&path=/#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.178:2096
 vless://293dbd19-eaec-43f0-dcde-2944af021dd4@104.239.72.255:8880?security=none&type=httpupgrade&host=S130.DdigicYber.clicK.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D1024#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-104.239.72.255:8880
@@ -500,6 +503,3 @@ vless://b99590df-eda0-4e34-e1a9-3d1118faed83@185.59.218.26:8880?security=none&ty
 vless://897a4bec-26b8-11e8-94be-00505695472c@172.67.158.3:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.158.3:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.22.25.85:2083?security=tls&sni=gU-2r-E35m-eO-2rTT-3f-b-CDq-2G4t-t5-Hdr4-6Yvd-35gH-dwE64-w.pAGes.Dev&type=ws&host=gU-2r-E35m-eO-2rTT-3f-b-CDq-2G4t-t5-Hdr4-6Yvd-35gH-dwE64-w.pAGes.Dev&path=%2FTSBgGkLqaxnignSz%2FNjIuMy4xMi4xODU%3D%3Fed%3D2560&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.25.85:2083
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.5.61:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇳🇱 NL-45.131.5.61:2096
-vless://f184c89c-80a4-4a3a-bc67-97db43266c11@80.66.84.113:443?security=tls&sni=vdd.wxgqlfx.cn&type=ws&host=vdd.wxgqlfx.cn&path=%2FTG%40wxgqlfx%3Fed%3D2560&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🇷🇺 RU-80.66.84.113:443
-vless://562b6618-1e9c-434f-f970-252cfd81da2e@173.245.58.100:2053?security=tls&sni=WWW.fashOARt749.COM&type=httpupgrade&host=GERNUR.fashOARt749.COM&path=%2FGERNUR.fashOARt749.COM%40ipdomein-www.speedtest.net-zula.ir%3Fed%3D20488#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-173.245.58.100:2053
-vless://897a4bec-26b8-11e8-94be-00505695472c@172.67.150.2:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.150.2:443

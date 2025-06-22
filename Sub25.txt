@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://13fbf564-8ce6-4947-9685-7efe8e659c7d@37.32.41.208:331?security=none&type=tcp&host=parsabr.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-37.32.41.208:331
+vless://8df60790-c903-4661-b85d-64c0009378e5@104.19.69.121:443?security=tls&sni=F1.paRsa.fiLegEar-Sg.Me&type=ws&host=f1.parsa.filegear-sg.me&path=%2F%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.69.121:443
+vless://bd3b011a-403f-4006-9c2c-2d49d6f25acd@162.159.192.252:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.252:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.158.177:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.158.177:443
 vless://9fdc6f83-bfbd-40dd-8e4e-1678ee20351c@162.159.160.22:443?security=tls&sni=fari21.ati-app.com&type=ws&host=fari21.ati-app.com&path=%2Fwss&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.160.22:443
 vless://d2638b15-7c54-4a83-b217-de0928070e2d@104.21.48.6:2087?security=tls&sni=SUpPOrT.FArsonLInE24.ir&type=httpupgrade&host=support.farsonline24.ir&path=%2F7uihmWjuk2GFctSVNRJ4qDc&fp=chrome&alpn=h2#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.48.6:2087
@@ -500,6 +503,3 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.136.20:8880?sni=reedfree8ma
 vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@45.131.210.12:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇳🇱 NL-45.131.210.12:8880
 vless://953d71f0-9241-4903-95b4-cce61e90015e@91.99.144.165:5969?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-91.99.144.165:5969
 vless://4290621f-483f-4e40-a15a-07c8cfb93873@104.21.48.1:2095?type=httpupgrade&host=speeDxpnte.socksChangeRt.ir.&path=%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NA 🏴‍☠️ NA-104.21.48.1:2095
-vless://f366e744-abcd-4b5b-bd5e-2bd97b6443bf@45.131.5.91:2086?type=ws&host=fva64rbmjfkfznnptk6imz6sihrno35m4csom83admge5tfxniwduyuyt954fdh.ks3om.workers.Dev#🔒 VL-WS-NA 🇳🇱 NL-45.131.5.91:2086
-vless://abb1a652-e19b-4dd2-8fa4-21983fd9dcf1@78.39.56.195:3566?security=none&type=tcp&host=time.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-78.39.56.195:3566
-vless://413775c3-ec6e-4d65-a969-336205799f44@5.160.35.73:5112?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.35.73:5112
